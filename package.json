@@ -10,7 +10,7 @@
     "name": "ootr",
     "url": "https://github.com/o-tr"
   },
-  "url": "https://github.com/o-tr/jp.ootr.imagetab/releases/latest/download/release.zip",
+  "url": "https://github.com/o-tr/jp.ootr.ImageGimmicksPack/releases/latest/download/release.zip",
   "vpmDependencies": {
     "com.vrchat.base": "3.6.1",
     "com.vrchat.worlds": "3.6.1",
