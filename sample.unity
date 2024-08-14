@@ -5737,18 +5737,6 @@ PrefabInstance:
       propertyPath: m_AnchorMin.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4501094578620709068, guid: 3db731641b37f4f469b04a38dd8ff8ca, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 1903
-      objectReference: {fileID: 0}
-    - target: {fileID: 4501094578620709068, guid: 3db731641b37f4f469b04a38dd8ff8ca, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 832
-      objectReference: {fileID: 0}
-    - target: {fileID: 5479452901984264041, guid: 3db731641b37f4f469b04a38dd8ff8ca, type: 3}
-      propertyPath: m_SizeDelta.y
-      value: 832
-      objectReference: {fileID: 0}
     - target: {fileID: 5562115653571824378, guid: 3db731641b37f4f469b04a38dd8ff8ca, type: 3}
       propertyPath: _syncMethod
       value: 3
@@ -5772,10 +5760,6 @@ PrefabInstance:
     - target: {fileID: 5645978965559105231, guid: 3db731641b37f4f469b04a38dd8ff8ca, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5664451769025271847, guid: 3db731641b37f4f469b04a38dd8ff8ca, type: 3}
-      propertyPath: m_SizeDelta.x
-      value: 3758
       objectReference: {fileID: 0}
     - target: {fileID: 5748954417888307141, guid: 3db731641b37f4f469b04a38dd8ff8ca, type: 3}
       propertyPath: m_AspectRatio
