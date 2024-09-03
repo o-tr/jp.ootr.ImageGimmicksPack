@@ -18,7 +18,7 @@
     "com.vrchat.base": "^3.6.1",
     "com.vrchat.worlds": "^3.6.1",
     "jp.ootr.common": "~0.0.9",
-    "jp.ootr.image-device-controller": "~0.2.1",
+    "jp.ootr.image-device-controller": "~0.2.2",
     "jp.ootr.image-tab": "~0.2.0",
     "jp.ootr.image-screen": "~0.2.0",
     "jp.ootr.image-slide": "~0.2.0",
