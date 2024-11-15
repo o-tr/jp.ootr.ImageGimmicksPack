@@ -1,7 +1,7 @@
 ﻿{
   "name": "jp.ootr.image-gimmicks-pack",
   "displayName": "Image Gimmicks Pack",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "license": "MIT",
   "unity": "2022.3",
   "description": "Image tablet gimmick for VRChat",
@@ -22,7 +22,7 @@
     "jp.ootr.image-tab": "~0.2.6",
     "jp.ootr.image-screen": "~0.2.6",
     "jp.ootr.image-slide": "~0.2.7",
-    "jp.ootr.image-device-controller-visualizer": "~0.0.3"
+    "jp.ootr.image-device-controller-visualizer": "~0.0.4"
   },
   "legacyFolders": {
     "Assets\\jp.ootr\\imagetab": "44c35e5266e08d948a1cfe3898d9a753"
