@@ -107,12 +107,12 @@ jobs:
             echo "has_changes=true" >> $GITHUB_OUTPUT
           fi
 
-      - name: Commit version and splash updates to master
+      - name: Commit version to master
         if: steps.check_changes.outputs.has_changes == 'true'
         run: |
           NEW_VERSION="${{ steps.new_version.outputs.new }}"
 
-          git add package.json Assets/Textures/SplashScreen/
+          git add package.json
           git commit -m "chore: bump version to v$NEW_VERSION"
 
       - name: Push to master
